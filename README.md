@@ -6,3 +6,12 @@ The game requires players to navigate two characters through environmental puzzl
 The characters utilize a custom procedural animation system that transforms their shapes in real-time. A sine-wave function creates rhythmic walking cycles, while a squash-and-stretch effect adjusts character height based on vertical velocity to add visual weight to jumps. The physics engine is tuned with a 0.8 gravity constant and a -17 jump impulse to ensure responsive, grounded movement.
 
 The interface features a 700-pixel game world and a 200-pixel sidebar to keep stats and instructions visible at all times. Fireboy is controlled with Arrow keys and Watergirl with WASD. If a character hits a hazard, the game enters a "Try Again" state, allowing for an immediate level reset via the R key.
+
+
+Key Prompts:
+1. create fireboy and watergirl game with pygame using lots of documentation
+2. 1. make the characters looks like characters and not just blocks. 2. make the game have a clear goal/ending place for the characters to achieve. 3. make sure the characters can jump high enough to land on the platforms. make it like a game! there should be points and a goal
+3. lets add more levels and make the colors of the game more visually appeal. also add a line of directions at the top of the screen to help the user
+4. make sure th points in the top right dont over lap with the graphics. make it look prettier and make the characters look like characters and not blocks.
+5. keep all the graphics the same and add a game over state
+6. 1. level 2 is impossible to get all the points. 2. add back the guide feautre w directions
